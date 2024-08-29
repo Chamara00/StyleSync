@@ -1,0 +1,2 @@
+# StyleSync
+Salon Automation System
